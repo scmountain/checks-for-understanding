@@ -9,7 +9,7 @@ Keeps everyone informed of what to do, expectation of how difficult it can be, a
 * What are the stages of a card when using Pivotal Tracker?
 start, finished, delivered, accept/reject
 * What are the four types of cards available in Pivotal Tracker?
-icebox, feature, chores, done
+ feature, chores, bug, release
 * What's your favorite project management tool?
 Waffle for Turing projects, but at my job shadow they used Piv and it was awesome!
 * Why do we create staging environments?
